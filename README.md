@@ -59,14 +59,10 @@ El portfolio está preparado para publicarse como un sitio web estático mediant
 
 El proceso de despliegue conecta el repositorio de GitHub con Render, permitiendo actualizar automáticamente el sitio cada vez que se realizan cambios y se envían nuevos commits a la rama configurada.
 
-Al tratarse de un sitio estático, no requiere un servidor backend ni una base de datos para mostrar su contenido.
-
 ## 🔭 Mejoras futuras
 
 Este portfolio es un proyecto en constante evolución. Algunas de las mejoras que busco implementar son:
 
-- Perfeccionar la adaptación a diferentes dispositivos y la accesibilidad.
-- Optimizar el rendimiento y el posicionamiento en buscadores (SEO).
 - Ampliar las secciones de proyectos y habilidades técnicas.
 - Actualizar periódicamente el contenido a medida que adquiera nuevos conocimientos y experiencias.
 
@@ -76,7 +72,7 @@ Este portfolio es un proyecto en constante evolución. Algunas de las mejoras qu
 
 **Zamira Valentín**
 
-Estudiante de informática interesada en el desarrollo de software, la ciencia de datos y la tecnología.
+Interesada en ciencia de datos y desarrollo Web.
 
 - 🐙 **GitHub:** [@zami-mi](https://github.com/zami-mi)
 - 💼 **Repositorio:** [zami-mi/Portfolio](https://github.com/zami-mi/Portfolio)
