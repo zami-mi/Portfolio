@@ -11,7 +11,6 @@
 ### 📋 Índice
 
 - [Descripción general](#-descripción-general)
-- [Características](#-características)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [Estructura del proyecto](#-estructura-del-proyecto)
 - [Instalación y ejecución local](#-instalación-y-ejecución-local)
@@ -26,14 +25,6 @@
 Este portfolio es un sitio web personal diseñado para reunir mi formación, conocimientos técnicos, proyectos e intereses profesionales.
 
 Su objetivo principal es ofrecer una presentación clara de mi perfil como estudiante de informática y mostrar mi desarrollo y aprendizaje dentro del ámbito tecnológico.
-
-## ✨ Características
-
-- **Presentación personal:** información sobre mi formación, intereses y objetivos profesionales.
-- **Proyectos:** exposición de proyectos académicos y personales, destacando las tecnologías y conocimientos aplicados.
-- **Habilidades técnicas:** descripción de herramientas, lenguajes de programación y tecnologías que estoy aprendiendo.
-- **Perfil profesional:** acceso a mi currículum vitae y medios de contacto.
-- **Diseño adaptable:** interfaz preparada para visualizarse en diferentes tamaños de pantalla y dispositivos.
 
 ## 🛠️ Tecnologías utilizadas
 
